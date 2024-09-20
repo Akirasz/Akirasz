@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-baldo-93b66822a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="25" width="35" /></a>
 
-============================================================
+==========================================
 
 Ethical Hacker
 --------------
