@@ -1,9 +1,7 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Akirasz)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akirasz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
 
 
 
