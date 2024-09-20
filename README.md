@@ -12,8 +12,22 @@
 
 ### 🏁 CTFs
 
-<script src="https://tryhackme.com/badge/2218955"></script>
+## Interests
+[![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
+[![ Penetration Test   ](https://img.shields.io/badge/Penetration%20Test-informational?style=for-the-badge&color=bebebe)]()
+[![ Malware Analysis   ](https://img.shields.io/badge/Malware%20Analysis-informational?style=for-the-badge&color=bebebe)]()
+[![ Computer Forensics ](https://img.shields.io/badge/Computer%20Forensics-informational?style=for-the-badge&color=bebebe)]()
+<br>
+[![ Web Development    ](https://img.shields.io/badge/Web%20Development-informational?style=for-the-badge&color=424242)]()
+[![ Law                ](https://img.shields.io/badge/Law-informational?style=for-the-badge&color=424242)]()
 
+
+## Technologies
+[![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
+[![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
+[![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
+[![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
+[![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=C&logo=c)]()
 
 
 <h3 align="left">Connect with me:</h3>
