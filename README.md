@@ -18,7 +18,7 @@ I'm a student in love with CyberSec.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akirasz&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joãodasbatata)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joãodasbatata&count=3)
 
 
 ### about me
