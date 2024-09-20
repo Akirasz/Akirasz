@@ -12,7 +12,7 @@
 
 ### 🏁 CTFs
 
-<a rel="external" href="https://tryhackme.com/p/akirasz" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/akirasz.png" alt="TryHackMe Profile Badge"></a>
+<script src="https://tryhackme.com/badge/2218955"></script>
 
 
 
