@@ -24,6 +24,8 @@ I'm a student in love with CyberSec.
 ### about me
 
 ### 🏁 CTFs
+![tryhackme stats](https://raw.githubusercontent.com/Akirasz/Akirasz/master/assets/thm_propic.png)
+
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
