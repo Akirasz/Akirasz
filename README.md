@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
+
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
 <br><br>
 
