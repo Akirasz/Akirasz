@@ -1,10 +1,10 @@
-## Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=Akirasz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akirasz)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akirasz&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joãodasbatata)
 
