@@ -26,6 +26,8 @@ I'm a student in love with CyberSec.
 ### 🏁 CTFs
 ![tryhackme stats](https://raw.githubusercontent.com/Akirasz/Akirasz/master/assets/thm_propic.png)
 
+<a rel="external" href="https://tryhackme.com/p/davidjktofan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe Profile Badge"></a>
+<a rel="external" href="https://tryhackme.com/p/Akirasz" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Akirasz.png" alt="TryHackMe Profile Badge"></a>
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
