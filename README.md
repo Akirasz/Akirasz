@@ -6,9 +6,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
 
 
-
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joãodasbatata)
+
+### about me
+
+### 🏁 CTFs
+
+<a rel="external" href="https://tryhackme.com/p/akirasz" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/akirasz.png" alt="TryHackMe Profile Badge"></a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
