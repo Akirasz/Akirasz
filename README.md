@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-<br><br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
-
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirasz&show_icons=true&theme=dark)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is João
 ============================================================================================================================
