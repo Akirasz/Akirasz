@@ -10,8 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical Hacker
 --------------
 
-I'm a student in love with CyberSec.
-
+I'm a dedicated cyber security student with a passion for safeguarding digital landscapes through comprehensive knowledge and hands-on skills in cutting-edge security technologies. Currently learning Web Application Security, Incident Response, etc.
 * 🌍  I'm based in Brasil
 * 🧠  I'm learning DCPT(certification)
 ---------------
